@@ -1,0 +1,15 @@
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.csproj.AssemblyReference.cache
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.AssemblyInfoInputs.cache
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.AssemblyInfo.cs
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.csproj.CoreCompileInputs.cache
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\bin\Debug\net6.0\Abstract_Factory.exe
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\bin\Debug\net6.0\Abstract_Factory.deps.json
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\bin\Debug\net6.0\Abstract_Factory.runtimeconfig.json
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\bin\Debug\net6.0\Abstract_Factory.dll
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\bin\Debug\net6.0\Abstract_Factory.pdb
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.dll
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\obj\Debug\net6.0\refint\Abstract_Factory.dll
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.pdb
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\obj\Debug\net6.0\Abstract_Factory.genruntimeconfig.cache
+C:\Users\redal\RiderProjects\CourseForBeginners\Alaa-Course\Design Patterns\Abstract_Factory\obj\Debug\net6.0\ref\Abstract_Factory.dll

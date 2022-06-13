@@ -1,0 +1,26 @@
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\bin\Debug\net6.0\appsettings.json
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\bin\Debug\net6.0\Abstract Factory.staticwebassets.runtime.json
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\bin\Debug\net6.0\Abstract Factory.exe
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\bin\Debug\net6.0\Abstract Factory.deps.json
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\bin\Debug\net6.0\Abstract Factory.runtimeconfig.json
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\bin\Debug\net6.0\Abstract Factory.dll
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\bin\Debug\net6.0\Abstract Factory.pdb
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\Abstract Factory.csproj.AssemblyReference.cache
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\Abstract Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\Abstract Factory.AssemblyInfoInputs.cache
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\Abstract Factory.AssemblyInfo.cs
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\Abstract Factory.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\Abstract Factory.RazorAssemblyInfo.cache
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\Abstract Factory.RazorAssemblyInfo.cs
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\scopedcss\bundle\Abstract Factory.styles.css
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\scopedcss\projectbundle\Abstract Factory.bundle.scp.css
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\Abstract Factory.dll
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\refint\Abstract Factory.dll
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\Abstract Factory.pdb
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\Abstract Factory.genruntimeconfig.cache
+C:\Users\redal\source\repos\Design Patterns\Abstract Factory\obj\Debug\net6.0\ref\Abstract Factory.dll
